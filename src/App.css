@@ -1,0 +1,11 @@
+.navbar{
+  display: flex;
+  justify-content: left;
+}
+
+.h1{
+  color: 'red';
+  margin: '20px';
+  padding: '20px';
+}
+
